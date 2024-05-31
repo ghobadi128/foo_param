@@ -1,20 +1,10 @@
 foo_param/
 ├── foo_param/
 │   ├── __init__.py
-│   ├── core.py
-│   ├── sphere.py
+│   ├── calculation.py
 │   └── utils.py
 ├── tests/
 │   ├── __init__.py
-│   ├── test_core.py
-│   ├── test_sphere.py
-│   └── test_utils.py
-├── examples/
-│   ├── example_usage.py
-├── docs/
-│   ├── index.md
-│   └── api_reference.md
-├── requirements.txt
+│   └── test_calculation.py
 ├── setup.py
-├── README.md
-└── LICENSE
+└── README.md
