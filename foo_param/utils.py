@@ -10,6 +10,5 @@ def complex_parameterization(radius):
     Returns:
         float: The calculated volume.
     """
-    # In reality, this would be more complex. Here it's simplified for demonstration.
     volume = (4/3) * pi * (radius ** 3)
     return volume
