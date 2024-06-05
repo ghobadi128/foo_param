@@ -4,7 +4,8 @@ Foo Param is a Python package for calculating the Foo et al. parameterization of
 
 ## Installation
 
-To install the package, run:
-
-```bash
 pip install -e .
+
+## Test and Validation
+
+py -m unittest discover .\tests\ | py .\example_usage.py
